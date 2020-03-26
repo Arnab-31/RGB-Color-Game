@@ -1,0 +1,218 @@
+@media only screen and (max-width: 1445px)
+{
+  .title{
+    height:250px;
+  }
+  h1{
+    font-size: 55px;
+  }
+  .bar{
+    height: 40px;
+  }
+  button{
+    font-size: 30px;
+  }
+  .btn-left{
+    margin-left: 15%;
+  }
+  .color-section{
+    height: 650px;
+  }
+  .color-boxes{
+    padding-top: 30px;
+    margin: 0 250px;
+  }
+  #rgb{
+    font-size: 70px;
+  }
+}
+@media only screen and (max-width: 1282px){
+  .title{
+    height:200px;
+  }
+  .color-section{
+    height: 600px;
+  }
+  .bar{
+    height:27px;
+  }
+  button{
+    font-size: 20px;
+  }
+  .color-boxes{
+    padding-top: 30px;
+  }
+}
+@media only screen and (max-width: 1024px){
+  .color-box{
+    height: 280px;
+    width: 280px;
+    float: left;
+    margin: 10px;
+    border-radius:5%;
+  }
+  .color-boxes{
+    margin: 0px 200px;
+    padding-top: 80px;
+  }
+  .color-section{
+    height: 1220px;
+  }
+  .btn-right{
+    margin-left: 230px;
+  }
+}
+@media only screen and (max-width: 800px){
+  .color-box{
+    height: 220px;
+    width: 220px;
+    float:left;
+    margin: 7px;
+    border-radius:5%;
+  }
+  .color-section{
+    height: 800px;
+  }
+  .color-boxes{
+    margin: 0px 150px;
+    padding-top: 40px;
+
+  }
+  .btn-left{
+    margin-left: 15%;
+  }
+  h1{
+    font-size: 50px;
+  }
+  .title{
+    height: 200px;
+  }
+  .btn-right{
+    margin-left: 80px;
+  }
+  #rgb{
+    font-size: 60px;
+  }
+}
+
+@media only screen and (max-width: 420px)
+{
+  .color-boxes{
+    margin: 0px 60px;
+    padding-top: 40px;
+
+  }
+  .color-box{
+    height: 130px;
+    width: 130px;
+    float:left;
+    margin: 7px;
+    border-radius:5%;
+  }
+  .color-section{
+    height: 550px;
+  }
+
+  h1{
+    font-size: 40px;
+  }
+
+  .title{
+    height: 170px;
+  }
+  .bar{
+    height: 18px;
+  }
+  button{
+    font-size: 10px;
+  }
+  .btn-right {
+    margin-left: 60px;
+  }
+  #rgb{
+    font-size: 50px;
+  }
+  #message{
+    margin-left: 40px;
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 380px)
+{
+  .color-box{
+    height: 110px;
+    width: 110px;
+    float:left;
+    margin: 7px;
+    border-radius:5%;
+  }
+  #rgb{
+    font-size: 45px;
+  }
+  h1{
+    font-size: 40px;
+  }
+  .btn-right {
+    margin-left: 40px;
+  }
+}
+
+  @media only screen and (max-width: 370px)
+  {
+    .color-box{
+      height: 120px;
+      width: 120px;
+      float:left;
+      margin: 7px;
+      border-radius:5%;
+    }
+    .color-boxes{
+      margin: 0px 45px;
+      padding-top: 40px;
+
+    }
+    .color-section{
+      height: 500px;
+    }
+    h1{
+      font-size: 30px;
+    }
+    .title{
+      height: 120px;
+    }
+    button{
+      font-size: 10px;
+    }
+    #rgb{
+      font-size: 40px;
+    }
+    .btn-right {
+      margin-left: 20px;
+    }
+  }
+
+
+    @media only screen and (max-width: 330px)
+    {
+      h1{
+        font-size: 20px;
+      }
+      .title{
+        height: 90px;
+      }
+      .color-box{
+        height: 100px;
+        width: 100px;
+        float:left;
+        margin: 7px;
+        border-radius:5%;
+      }
+      button{
+        font-size: 8px;
+        padding: 0px;
+      }
+      #rgb{
+        font-size: 30px;
+      }
+}
